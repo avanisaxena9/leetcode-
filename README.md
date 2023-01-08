@@ -1,3 +1,4 @@
 # leetcode_solved -
-solved leetcode questions in java  
-my leetcode profile [avani_saxena](https://leetcode.com/avani_saxena/)
+A collection of DSA questions I solved on leetcode.
+Language - JAVA
+My leetcode profile -  [avani_saxena](https://leetcode.com/avani_saxena/)
