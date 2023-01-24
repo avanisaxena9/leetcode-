@@ -13,22 +13,15 @@ class Solution {
             { 
                 count++;
                 no=count;
-                
             }
-            
             else if (nums[i]==nums[i+1]) continue;
             else{
                 ls.add(count);
                 
                 count=1;
-            }
-             
-           
+            }           
         }
-         ls.add(no);
-        
-        
-        
+         ls.add(no); 
         return Collections.max(ls);
     }
     
