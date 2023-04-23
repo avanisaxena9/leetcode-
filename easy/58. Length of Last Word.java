@@ -18,7 +18,6 @@ class Solution {
     }    
 }
 
-
 //alternate solution
 
 class Solution {
