@@ -18,8 +18,8 @@ class Solution {
     }    
 }
 
-//alternate solution
 
+//alternate solution
 
 class Solution {
     public int lengthOfLastWord(String s) {
