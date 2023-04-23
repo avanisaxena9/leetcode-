@@ -20,6 +20,7 @@ class Solution {
 
 //alternate solution
 
+
 class Solution {
     public int lengthOfLastWord(String s) {
         s = s.trim();
